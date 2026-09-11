@@ -1,4 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","7444","Test Login111","Google Chrome","2026-09-11","passed","2026-09-11","","Login.spec.js","",""
-"","2367","Test Login","Google Chrome","2026-09-11","passed","2026-09-11","","Login.spec.js","",""
+"","13915","Test Login111","Google Chrome","2026-09-11","passed","2026-09-11","","Login.spec.js","",""
 "","10634","test","Google Chrome","2026-09-11","passed","2026-09-11","","Login.spec.js","",""
+"","2367","Test Login","Google Chrome","2026-09-11","passed","2026-09-11","","Login.spec.js","",""
