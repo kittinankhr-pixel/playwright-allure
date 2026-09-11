@@ -1,2 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","5765","test","Google Chrome","2026-09-10","passed","2026-09-10","","Login.spec.js","",""
+"","4572","Test Login","Google Chrome","2026-09-11","passed","2026-09-11","","Login.spec.js","",""
+"","10634","test","Google Chrome","2026-09-11","passed","2026-09-11","","Login.spec.js","",""
